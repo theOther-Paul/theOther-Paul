@@ -17,12 +17,14 @@
 </div>
 
 <h1>
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
+<p>I am Paul and I am a junior Software Developer working on various projects</p>
 <h1>
-  About Me: 
+  My Stats 
 </h1>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=theOtherPaul&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=theOtherPaul&theme=tokyonight)](https://github.com/theOtherPaul/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheOtherPaul&theme=tokyonightlangs_count=5)](https://github.com/anuraghazra/github-readme-stats)
