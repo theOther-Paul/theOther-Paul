@@ -1,7 +1,7 @@
 # theOther-Paul
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzk1dWNvb3F2amE5ZW5kY28xYXozYWo3c3QyZTF4eHc1aXE4MnZ2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzk1dWNvb3F2amE5ZW5kY28xYXozYWo3c3QyZTF4eHc1aXE4MnZ2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </div>
 
 <div id="badges" align="center">
