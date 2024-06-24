@@ -19,6 +19,6 @@
   My Stats 
 </h1>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=theOtherPaul&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=theOther-Paul&theme=onedark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
 [![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=theOtherPaul&theme=tokyonight)](https://github.com/theOtherPaul/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheOtherPaul&theme=tokyonightlangs_count=5)](https://github.com/anuraghazra/github-readme-stats)
